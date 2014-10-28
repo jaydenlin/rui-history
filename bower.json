@@ -1,0 +1,28 @@
+{
+  "name": "rui-history",
+  "version": "0.0.1",
+  "authors": [
+    "JaydenLin <j5905653@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jaydenlin/rui-history.git"
+  },
+  "description": "history widget",
+  "main": [
+      "dist/historyWidget.js",
+      "dist/historyWidget.css"
+  ],
+  "keywords": [
+    "history",
+    "widget"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

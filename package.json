@@ -1,0 +1,20 @@
+{
+  "name": "rui-history",
+  "version": "1.0.0",
+  "description": "rui history widget",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayden Lin",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.8.9",
+    "gulp-concat": "^2.4.1",
+    "gulp-imagemin": "^1.2.1",
+    "gulp-uglify": "^1.0.1"
+  }
+}
