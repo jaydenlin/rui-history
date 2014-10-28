@@ -10,8 +10,8 @@
   },
   "description": "history widget",
   "main": [
-      "dist/historyWidget.js",
-      "dist/historyWidget.css"
+    "dist/historyWidget.js",
+    "dist/historyWidget.css"
   ],
   "keywords": [
     "history",
@@ -24,5 +24,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "1.7.1"
+  }
 }
