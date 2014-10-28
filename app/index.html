@@ -4,10 +4,17 @@
     <meta charset="UTF-8">
     <title>History Demo</title>
     <link rel="stylesheet" type="text/css" href="css/">
+    
 </head>
 <body>
-
+    <div id="historyWidget"></div>
 
 
 </body>
+<script src="js/historyWidget.js"></script>
+<script>
+    window.onload=function(){
+        document.getElementById("historyWidget").appendChild(RUI.historyWidget.launch());
+    }
+</script>    
 </html>
